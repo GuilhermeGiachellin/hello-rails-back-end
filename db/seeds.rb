@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Message.create(name: 'random 1')
+Message.create(name: 'random 2')
+Message.create(name: 'random 3')
+Message.create(name: 'random 4')
+Message.create(name: 'random 5')
